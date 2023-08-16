@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning and exploring new technologies
 - 🌱 I’m currently learning JQuery, NodeJs, React and Kotlin.
 - 💞️ I’m looking to collaborate on system development, web development and mobile apps development projecs.
-- 📫 How to reach me at bsnalisa@gmail.com
+- 📫 Reach me at bsnalisa@gmail.com
 
 <!---
 bsnalisa/bsnalisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
